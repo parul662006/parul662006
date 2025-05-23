@@ -88,5 +88,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=FF7F50&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=parul662006&label=Profile%20views&color=FF7F50&style=flat" alt="profile views" />
 </div>
